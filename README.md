@@ -69,7 +69,7 @@ Estrutura completa para SaaS multi-tenant com autenticação, autorização RBAC
 
 - 💼 LinkedIn: https://linkedin.com/in/gabrielamorimaragaosouza
 - 🌐 Portfólio: https://gabrielamorim.elementfx.com
-- 📧 Email: seu-email@exemplo.com
+- 📧 Email: gabriel.amorimsouza97@gmail.com
 
 ---
 
